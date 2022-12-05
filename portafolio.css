@@ -1,3 +1,10 @@
+body{
+    background-color: #a9c68d;
+    color: #71926f;
+}
+header{
+    background-color:#183836;
+}
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
