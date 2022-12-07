@@ -11,7 +11,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: fixed;
+    /* position: fixed; */
     top: 0;
 }
 
@@ -43,7 +43,7 @@ li > a {
   }
 
 h1{
-    color: #9ecc9c;
+    color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
